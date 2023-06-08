@@ -1,0 +1,32 @@
+﻿zhíyè	职业   1 occupation 2 profession 3 vocation 4 professional
+jǐngchá	警察     1 police 2 police officer M: gè [个]
+jǐngchá	警察   police
+gōngchéngshī	工程师   engineer
+xiāofángyuán	消防员   firefighter
+hùshi	护士   nurse
+yīshēng	医生   doctor
+sījī	司机   driver
+lǜshī	律师   lawyer
+shèjìshī	设计师   designer
+chúshī	厨师   cook
+shāngrén	商人   businessman
+ruǎnjiàn	软件   software
+zhùnǐhǎoyùn	祝你好运   good luck
+shēntǐ	身体   body
+mǎnóng	码农   menial programmer (computing)
+shēntǐbùwèi	身体部位   body part
+shēntǐ	身体健康 jiànkāng   be in good health   ex：祝你身体健康
+liǎn	脸   face
+bózi	脖子   neck
+jiānbǎng	肩膀   shoulder
+chìbǎng	翅膀    wing of a bird
+gēbo	胳膊   arm
+gēbozhǒu	胳膊肘   elbow
+shǒu	手   hand
+shǒuzhǐtou	手指头   fingertip
+xīgài	膝盖   knee
+jiǎo	脚   foot
+jiǎozhǐ	脚指   toe
+yǎnjing	眼睛   eyes
+yǎnjìng	眼镜   eyeglasses   ex：戴眼镜
+ná	拿   hold; take
