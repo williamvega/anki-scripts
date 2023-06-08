@@ -1,7 +1,6 @@
 #separator:tab
 #html:false
 职业	zhíyè   1 occupation 2 profession 3 vocation 4 professional
-警察	jǐngchá     1 police 2 police officer M: gè [个]
 警察	jǐngchá   police
 工程师	gōngchéngshī   engineer
 消防员	xiāofángyuán   firefighter
