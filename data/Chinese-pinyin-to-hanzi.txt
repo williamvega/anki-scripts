@@ -1,0 +1,94 @@
+#separator:tab
+#html:false
+zhíyè	occupation profession vocation professional     职业
+jǐngchá	police     警察
+gōngchéngshī	engineer     工程师
+xiāofángyuán	firefighter     消防员
+hùshi	nurse     护士
+yīshēng	doctor     医生
+sījī	driver     司机
+lǜshī	lawyer     律师
+shèjìshī	designer     设计师
+chúshī	cook     厨师
+shāngrén	businessman     商人
+ruǎnjiàn	software     软件
+zhùnǐhǎoyùn	good luck     祝你好运
+shēntǐjiànkāng	be in good health     身体健康     祝你身体健康
+mǎnóng	menial programmer (computing)     码农
+shēntǐbùwèi	body part     身体部位
+liǎn	face     脸
+bózi	neck     脖子
+jiānbǎng	shoulder     肩膀
+chìbǎng	wing (of a bird)     翅膀
+gēbo	arm     胳膊
+gēbozhǒu	elbow     胳膊肘
+shǒu	hand     手
+shǒuzhǐtou	fingertip     手指头
+xīgài	knee     膝盖
+jiǎo	foot     脚
+jiǎozhǐ	toe     脚指
+yǎnjing	eyes     眼睛
+yǎnjìng	eyeglasses     眼镜     戴眼镜
+ná	hold; take     拿
+dòngwù	animal      动物
+gōngyáng/mǔyáng	ram/ewe     公羊/母羊      gōng + animal = male animal mǔ + animal = female animal
+zhíwù	plant;flora      植物
+yáng	sheep;goat;ram;ewe      羊
+shānyáng	goat      山羊
+miányáng	sheep      绵羊
+měizhōubào （动物）	panther (animal)      美洲豹
+chǒngwù	pet      宠物
+chǒng‘ài	make a pet of/dote sb’s beloved sb     宠爱
+xióngmāo	panda      熊猫
+hóuzi	monkey      猴子
+měihóuwáng	the Monkey King in 西游记      美猴王
+sōngshǔ	squirrel      松鼠
+sōngshù	pine tree      松树
+cāngshǔ	hamster      仓鼠
+wūguī	turtle      乌龟
+yīfu	clothes      衣服
+chuān	wear/put on     穿     穿衣服
+T'xù	t-shirt     T恤
+duǎnkù	short pants / shorts     短裤
+chènshān	shirt/blouse     衬衫
+kùzi	trousers/pants     裤子
+niúzǎikù	jeans (lit. cowboy pants)     牛仔裤
+qúnzi	skirt     裙子
+liányīqún	formal dress     连衣裙
+máoyī	sweater     毛衣
+jiākè	jacket     夹克
+dàyī	overcoat/coat     大衣
+chángkù	long pants / trousers     长裤
+xiàndài yìshù	modern art     现代艺术
+liúhàn	to sweat      流汗
+xiézi	shoes      鞋子
+yùndòngfú	sportswear      运动服
+xiàofú	school uniform      校服
+wèiyī	sweatshirt/hoody      卫衣
+liánmàoshān	sweatshirt/hoody     连帽衫
+dàimàozi	to wear a hat     戴帽子
+wéijīn	scarf / shawl
+jièzhi	(finger) ring
+shǒutào	glove / mitten
+wǒ zài dú yánjiūshēng	I am (reading) graduate degree
+biànchéng	to change into / to turn into / to become
+xiě mǎ	write code
+shíjiān	time / period
+zǎoshang	early morning
+shàngwǔ	morning
+zhōngwǔ	noon/midday
+xiàwǔ	afternoon
+wǎnshang	evening/night
+shùxué	maths
+shùzì (shùxué)	number (maths)
+jiā (+) 	to add / plus
+jiǎn （-）	subtract
+chéng (x）	multiply
+chú	to divide
+"liù	diǎn líng wǔ fēn"	6:05
+wǔ diǎn bàn	5:30 (half past five)
+miǎo	a second
+tā (nán)	he (male)
+tā (nǚ)	she (female)
+tā (dòngwù)	it（animal）
+tāmen (nán)	they (male and/or female)
