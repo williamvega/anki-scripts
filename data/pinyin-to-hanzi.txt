@@ -1,31 +1,297 @@
-﻿zhíyè	职业   1 occupation 2 profession 3 vocation 4 professional
-jǐngchá	警察   police
-gōngchéngshī	工程师   engineer
-xiāofángyuán	消防员   firefighter
-hùshi	护士   nurse
-yīshēng	医生   doctor
-sījī	司机   driver
-lǜshī	律师   lawyer
-shèjìshī	设计师   designer
-chúshī	厨师   cook
-shāngrén	商人   businessman
-ruǎnjiàn	软件   software
-zhùnǐhǎoyùn	祝你好运   good luck
-shēntǐ	身体   body
-mǎnóng	码农   menial programmer (computing)
-shēntǐbùwèi	身体部位   body part
-shēntǐ	身体健康 jiànkāng   be in good health   ex：祝你身体健康
-liǎn	脸   face
-bózi	脖子   neck
-jiānbǎng	肩膀   shoulder
-chìbǎng	翅膀    wing of a bird
-gēbo	胳膊   arm
-gēbozhǒu	胳膊肘   elbow
-shǒu	手   hand
-shǒuzhǐtou	手指头   fingertip
-xīgài	膝盖   knee
-jiǎo	脚   foot
-jiǎozhǐ	脚指   toe
-yǎnjing	眼睛   eyes
-yǎnjìng	眼镜   eyeglasses   ex：戴眼镜
-ná	拿   hold; take
+﻿zhíyè	职业
+jǐngchá	警察
+gōngchéngshī	工程师
+xiāofángyuán	消防员
+hùshi	护士
+yīshēng	医生
+sījī	司机
+lǜshī	律师
+shèjìshī	设计师
+chúshī	厨师
+shāngrén	商人
+ruǎnjiàn	软件
+zhùnǐhǎoyùn	祝你好运
+shēntǐjiànkāng	身体健康          祝你身体健康
+mǎnóng	码农
+shēntǐbùwèi	身体部位
+liǎn	脸
+bózi	脖子
+jiānbǎng	肩膀
+chìbǎng	翅膀
+gēbo	胳膊
+gēbozhǒu	胳膊肘
+shǒu	手
+shǒuzhǐtou	手指头
+xīgài	膝盖
+jiǎo	脚
+jiǎozhǐ	脚指
+yǎnjing	眼睛
+yǎnjìng	眼镜          戴眼镜
+ná	拿
+dòngwù	动物
+gōngyáng/mǔyáng	公羊/母羊           gōng + animal = male animal mǔ + animal = female animal
+zhíwù	植物
+yáng	羊
+shānyáng	山羊
+miányáng	绵羊
+měizhōubào	美洲豹 （dòngwù）
+chǒngwù	宠物
+chǒng‘ài	宠爱
+xióngmāo	熊猫
+hóuzi	猴子
+měihóuwáng	美猴王
+sōngshǔ	松鼠
+sōngshù	松树
+cāngshǔ	仓鼠
+wūguī	乌龟
+yīfu	衣服
+chuān	穿          穿衣服
+T'xù	T恤
+duǎnkù	短裤
+chènshān	衬衫
+kùzi	裤子
+niúzǎikù	牛仔裤
+qúnzi	裙子
+liányīqún	连衣裙
+máoyī	毛衣
+jiākè	夹克
+dàyī	大衣
+chángkù	长裤
+xiàndài	现代艺术 yìshù
+liúhàn	流汗
+xiézi	鞋子
+yùndòngfú	运动服
+xiàofú	校服
+wèiyī	卫衣
+liánmàoshān	连帽衫
+dàimàozi	戴帽子
+wéijīn	围巾
+jièzhi	戒指
+shǒutào	手套
+wǒ	我在读研究生 zài dú yánjiūshēng
+biànchéng	变成
+码 写	xiě mǎ
+shíjiān	时间
+zǎoshang	早上
+shàngwǔ	上午
+zhōngwǔ	中午
+xiàwǔ	下午
+wǎnshang	晚上
+shùxué	数学
+shùzì	数字 (shùxué)
+jiā	加 (数学）
+jiǎn	减
+chéng	乘
+chú	除
+"liù	六点零五分	diǎn líng wǔ fēn"
+wǔ	五点半 diǎn bàn
+miǎo	秒
+tā	他
+tā	她
+tā	它
+tāmen	他们
+děngyú	等于
+rìchángqǐjū	日常起居
+shàngkè	上课
+xiàkè	下课
+shuìjiào	睡觉
+yùndòng	运动
+shuāyá	刷牙
+zuòyè	作业          写作业
+shuǐguǒ	水果
+píngguǒ	苹果
+xiāngjiāo	香蕉
+cǎoméi	草莓
+mángguǒ	芒果          芒果汁
+xīgua	西瓜
+tián	甜
+tángguǒ	糖果
+qián	钱
+duōshao	多少          多少钱？
+qiān	千          不足五千 （less than five thousand, lit. not even at the foot of five thousand)
+wàn	万          百万 = a million
+bàng	磅          我两百磅
+gòuwù	购物          去购物
+shāngchǎng	商场
+guàngjiē	逛街
+gòuwùqīngdān	购物清单
+yīgòng	一共          一共多少人？一共两个人。
+pútáo	葡萄
+chéngzi	橙子
+táozi	桃子
+níngméng	柠檬
+suān	酸
+gōngjīn	公斤
+jīn	斤          他 是 160斤
+guì	贵
+piányi	便宜
+yīrìsāncān	一日三餐
+xīcān	西餐
+sānmíngzhì	三明治
+shālā	沙拉
+niúpái	牛排
+kǎo	烤
+Yìdàlì	意大利
+yīnyì	音译
+zhōngcān	中餐
+chǎofàn	炒饭
+chǎomiàn	炒面
+jiǎozi	饺子
+mǐfàn	米饭
+miàntiáo	面条
+háishi	还是
+shíwù	食物
+kuàicān	快餐
+hànbǎo	汉堡
+règǒu	热狗
+shǔtiáo	薯条
+xīguāzhī	西瓜汁
+Xuěbì	雪碧
+kāfēi	咖啡
+bāozi	包子
+màipiàn	麦片
+suānnǎi	酸奶
+yībān	一般          一般 我 在 晚上 洗澡
+niúròu	牛肉
+yìsi	意思
+tángcù	糖醋
+zhūròu	猪肉
+bùyī	不一          心口不一
+děngděng	等等          有 可能 將 电脑 工作 扩展 到 银行 业务 , 会计 业务 等等
+liànjiē	链接          不要 点击 那个 链接
+xiā	虾
+Wǎngluòxīncí	网络新词
+chǎocài	炒菜
+huòzhě	或者
+hǎixiān	海鲜
+jǐwèi	几位
+càidān	菜单
+fúwùyuán	服务员
+diǎncài	点菜
+shāoděng	稍等
+cíhuì	词汇
+liàng	量
+hěn	很
+shǎo	少
+xīncí	新词
+dāncí	单词
+cí	词
+wòshì	卧室
+kètīng	客厅
+cāntīng	餐厅
+chúfáng	厨房
+shūfáng	书房
+yángtái	阳台
+céng	层
+dīcéng	低层
+gāocéng	高层
+yùshì	浴室
+línyù	淋浴
+xǐzǎo	洗澡
+gāocéngjiànzhù	高层建筑
+pīnyīn	拼音
+fānyì	翻译
+jìngzi	镜子
+shēnbiān	身边
+lóutī	楼梯
+lóushàng	楼上
+lóuxià	楼下
+xǐyīfáng	洗衣房
+yīmàojiān	衣帽间
+jiān	间
+chēkù	车库
+yóuyǒngchí	游泳池
+yóuyǒng	游泳
+yǒuyòng	有用
+shuǐchí	水池
+huāyuán	花园
+zhànlìshìshūzhuō	站立式书桌
+jiājù	家具
+diànshì	电视
+shūguì	书柜
+yīguì	衣柜
+chuángtóuguì	床头柜
+lǐmiàn	里面
+shāfā	沙发
+chájī	茶几
+chuáng	床
+zhuōzi	桌子
+yǐzi	椅子
+cānzhuō	餐桌
+shūzhuō	书桌
+zhāng	张
+diànqì	电器
+bīngxiāng	冰箱
+kǎoxiāng	烤箱
+xǐwǎnjī	洗碗机
+jīqì	机器
+wēibōlú	微波炉
+kǎomiànbāojī	烤面包机
+kāfēijī	咖啡机
+diànnǎo	电脑
+kōngtiáo	空调
+xǐyījī	洗衣机
+hōnggānjī	烘干机
+shèqū	社区
+xuéxiào	学校
+chāoshì	超市
+chāojíshìchǎng	超级市场
+gōngyuán	公园
+yínháng	银行
+fùjìn	附近
+jiàotáng	教堂
+cānguǎn	餐馆
+yīyuàn	医院
+yàodiǎn	要点
+sìmiào	寺庙
+diàn	店
+huādiàn	花店
+jǐngchájú	警察局
+gōngānjú	公安局
+xiāofángjú	消防局
+yóujú	邮局
+yóujiàn	邮件
+diànyǐngyuàn	电影院
+jiǎnpiàoyuán	检票员
+yuǎn	远
+jìn	近
+lí	离
+duànshí	断食
+lāshǐ	拉屎
+chūntiān	春天
+jìsuànjīkēxué	计算机科学
+zǒulù	走路
+kāichē	开车
+dàyuē	大约
+jiāotōnggōngjù	交通工具
+fēijī	飞机
+huǒchē	火车
+dìtiě	地铁
+dìxià	地下
+zuò	做
+zìxíngchē	自行车
+mótuōchē	摩托车
+qí	骑
+dānchē	单车
+jiǎotàchē	脚踏车
+zuòchē	坐车
+DīdīChūxíng	滴滴出行
+xiǎochē	小车
+tiěguǐ	铁轨
+qīngguǐ	轻轨
+guǐdào	轨道
+chūguǐ	出轨
+chuán	船
+chuánzhǎng	船长
+xiǎoshí	小时
+duōjiǔ	多久
+cóng	从
+dào	到
+fēijīchǎng	飞机场
+zhàn	站
+xiān	先
+xiāndàoxiāndé	先到先得
+zuìhòu	最后
+guo	过
+ránhòu	然后
+le	了

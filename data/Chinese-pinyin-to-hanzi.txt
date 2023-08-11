@@ -1,94 +1,2677 @@
 #separator:tab
-#html:false
-zhíyè	occupation profession vocation professional     职业
-jǐngchá	police     警察
-gōngchéngshī	engineer     工程师
-xiāofángyuán	firefighter     消防员
-hùshi	nurse     护士
-yīshēng	doctor     医生
-sījī	driver     司机
-lǜshī	lawyer     律师
-shèjìshī	designer     设计师
-chúshī	cook     厨师
-shāngrén	businessman     商人
-ruǎnjiàn	software     软件
-zhùnǐhǎoyùn	good luck     祝你好运
-shēntǐjiànkāng	be in good health     身体健康     祝你身体健康
-mǎnóng	menial programmer (computing)     码农
-shēntǐbùwèi	body part     身体部位
-liǎn	face     脸
-bózi	neck     脖子
-jiānbǎng	shoulder     肩膀
-chìbǎng	wing (of a bird)     翅膀
-gēbo	arm     胳膊
-gēbozhǒu	elbow     胳膊肘
-shǒu	hand     手
-shǒuzhǐtou	fingertip     手指头
-xīgài	knee     膝盖
-jiǎo	foot     脚
-jiǎozhǐ	toe     脚指
-yǎnjing	eyes     眼睛
-yǎnjìng	eyeglasses     眼镜     戴眼镜
-ná	hold; take     拿
-dòngwù	animal      动物
-gōngyáng/mǔyáng	ram/ewe     公羊/母羊      gōng + animal = male animal mǔ + animal = female animal
-zhíwù	plant;flora      植物
-yáng	sheep;goat;ram;ewe      羊
-shānyáng	goat      山羊
-miányáng	sheep      绵羊
-měizhōubào （动物）	panther (animal)      美洲豹
-chǒngwù	pet      宠物
-chǒng‘ài	make a pet of/dote sb’s beloved sb     宠爱
-xióngmāo	panda      熊猫
-hóuzi	monkey      猴子
-měihóuwáng	the Monkey King in 西游记      美猴王
-sōngshǔ	squirrel      松鼠
-sōngshù	pine tree      松树
-cāngshǔ	hamster      仓鼠
-wūguī	turtle      乌龟
-yīfu	clothes      衣服
-chuān	wear/put on     穿     穿衣服
-T'xù	t-shirt     T恤
-duǎnkù	short pants / shorts     短裤
-chènshān	shirt/blouse     衬衫
-kùzi	trousers/pants     裤子
-niúzǎikù	jeans (lit. cowboy pants)     牛仔裤
-qúnzi	skirt     裙子
-liányīqún	formal dress     连衣裙
-máoyī	sweater     毛衣
-jiākè	jacket     夹克
-dàyī	overcoat/coat     大衣
-chángkù	long pants / trousers     长裤
-xiàndài yìshù	modern art     现代艺术
-liúhàn	to sweat      流汗
-xiézi	shoes      鞋子
-yùndòngfú	sportswear      运动服
-xiàofú	school uniform      校服
-wèiyī	sweatshirt/hoody      卫衣
-liánmàoshān	sweatshirt/hoody     连帽衫
-dàimàozi	to wear a hat     戴帽子
-wéijīn	scarf / shawl
-jièzhi	(finger) ring
-shǒutào	glove / mitten
-wǒ zài dú yánjiūshēng	I am (reading) graduate degree
-biànchéng	to change into / to turn into / to become
-xiě mǎ	write code
-shíjiān	time / period
-zǎoshang	early morning
-shàngwǔ	morning
-zhōngwǔ	noon/midday
-xiàwǔ	afternoon
-wǎnshang	evening/night
-shùxué	maths
-shùzì (shùxué)	number (maths)
-jiā (+) 	to add / plus
-jiǎn （-）	subtract
-chéng (x）	multiply
-chú	to divide
-"liù	diǎn líng wǔ fēn"	6:05
-wǔ diǎn bàn	5:30 (half past five)
-miǎo	a second
-tā (nán)	he (male)
-tā (nǚ)	she (female)
-tā (dòngwù)	it（animal）
-tāmen (nán)	they (male and/or female)
+#html:true
+"zhíyè
+
+<br>
+
+职业"	"occupation<br>profession<br>vocation<br>professional
+
+<br>
+
+"
+"jǐngchá
+
+<br>
+
+警察"	"police
+
+<br>
+
+"
+"gōngchéngshī
+
+<br>
+
+工程师"	"engineer
+
+<br>
+
+"
+"xiāofángyuán
+
+<br>
+
+消防员"	"firefighter
+
+<br>
+
+"
+"hùshi
+
+<br>
+
+护士"	"nurse
+
+<br>
+
+"
+"yīshēng
+
+<br>
+
+医生"	"doctor
+
+<br>
+
+"
+"sījī
+
+<br>
+
+司机"	"driver
+
+<br>
+
+"
+"lǜshī
+
+<br>
+
+律师"	"lawyer
+
+<br>
+
+"
+"shèjìshī
+
+<br>
+
+设计师"	"designer
+
+<br>
+
+"
+"chúshī
+
+<br>
+
+厨师"	"cook
+
+<br>
+
+"
+"shāngrén
+
+<br>
+
+商人"	"businessman
+
+<br>
+
+"
+"ruǎnjiàn
+
+<br>
+
+软件"	"software
+
+<br>
+
+"
+"zhùnǐhǎoyùn
+
+<br>
+
+祝你好运"	"good luck
+
+<br>
+
+"
+"shēntǐjiànkāng
+
+<br>
+
+身体健康"	"be in good health
+
+<br>
+
+祝你身体健康"
+"mǎnóng
+
+<br>
+
+码农"	"menial programmer (computing)
+
+<br>
+
+"
+"shēntǐbùwèi
+
+<br>
+
+身体部位"	"body part
+
+<br>
+
+"
+"liǎn
+
+<br>
+
+脸"	"face
+
+<br>
+
+"
+"bózi
+
+<br>
+
+脖子"	"neck
+
+<br>
+
+"
+"jiānbǎng
+
+<br>
+
+肩膀"	"shoulder
+
+<br>
+
+"
+"chìbǎng
+
+<br>
+
+翅膀"	"wing (of a bird)
+
+<br>
+
+"
+"gēbo
+
+<br>
+
+胳膊"	"arm
+
+<br>
+
+"
+"gēbozhǒu
+
+<br>
+
+胳膊肘"	"elbow
+
+<br>
+
+"
+"shǒu
+
+<br>
+
+手"	"hand
+
+<br>
+
+"
+"shǒuzhǐtou
+
+<br>
+
+手指头"	"fingertip
+
+<br>
+
+"
+"xīgài
+
+<br>
+
+膝盖"	"knee
+
+<br>
+
+"
+"jiǎo
+
+<br>
+
+脚"	"foot
+
+<br>
+
+"
+"jiǎozhǐ
+
+<br>
+
+脚指"	"toe
+
+<br>
+
+"
+"yǎnjing
+
+<br>
+
+眼睛"	"eyes
+
+<br>
+
+"
+"yǎnjìng
+
+<br>
+
+眼镜"	"eyeglasses
+
+<br>
+
+戴眼镜"
+"ná
+
+<br>
+
+拿"	"hold; take
+
+<br>
+
+"
+"dòngwù
+
+<br>
+
+动物"	"<div>animal<br></div>
+
+<br>
+
+"
+"gōngyáng/mǔyáng
+
+<br>
+
+公羊/母羊"	"<div>ram/ewe</div>
+
+<br>
+
+<div>gōng + animal = male animal</div><div>mǔ + animal = female animal</div>"
+"zhíwù
+
+<br>
+
+植物"	"<div>plant;flora<br></div>
+
+<br>
+
+"
+"yáng
+
+<br>
+
+羊"	"<div>sheep;goat;ram;ewe<br></div>
+
+<br>
+
+"
+"shānyáng
+
+<br>
+
+山羊"	"<div>goat<br></div>
+
+<br>
+
+"
+"miányáng
+
+<br>
+
+绵羊"	"<div>sheep<br></div>
+
+<br>
+
+"
+"měizhōubào （dòngwù）
+
+<br>
+
+美洲豹 （动物）"	"<div>panther (animal)<br></div>
+
+<br>
+
+"
+"chǒngwù
+
+<br>
+
+宠物"	"<div>pet<br></div>
+
+<br>
+
+"
+"chǒng‘ài
+
+<br>
+
+宠爱"	"<div>make a pet of/dote</div><div>sb’s beloved sb</div>
+
+<br>
+
+"
+"xióngmāo
+
+<br>
+
+熊猫"	"<div>panda<br></div>
+
+<br>
+
+"
+"hóuzi
+
+<br>
+
+猴子"	"<div>monkey<br></div>
+
+<br>
+
+"
+"měihóuwáng
+
+<br>
+
+美猴王"	"<div>the Monkey King in 西游记<br></div>
+
+<br>
+
+"
+"sōngshǔ
+
+<br>
+
+松鼠"	"<div>squirrel<br></div>
+
+<br>
+
+"
+"sōngshù
+
+<br>
+
+松树"	"<div>pine tree<br></div>
+
+<br>
+
+"
+"cāngshǔ
+
+<br>
+
+仓鼠"	"<div>hamster<br></div>
+
+<br>
+
+"
+"wūguī
+
+<br>
+
+乌龟"	"<div>turtle<br></div>
+
+<br>
+
+"
+"yīfu
+
+<br>
+
+衣服"	"<div>clothes<br></div>
+
+<br>
+
+"
+"chuān
+
+<br>
+
+穿"	"wear/put on
+
+<br>
+
+穿衣服"
+"T'xù
+
+<br>
+
+T恤"	"t-shirt
+
+<br>
+
+"
+"duǎnkù
+
+<br>
+
+短裤"	"short pants&nbsp;/&nbsp;shorts
+
+<br>
+
+"
+"chènshān
+
+<br>
+
+衬衫"	"shirt/blouse
+
+<br>
+
+"
+"kùzi
+
+<br>
+
+裤子"	"trousers/pants
+
+<br>
+
+"
+"niúzǎikù
+
+<br>
+
+牛仔裤"	"jeans (lit. cowboy pants)
+
+<br>
+
+"
+"qúnzi
+
+<br>
+
+裙子"	"<div>skirt</div>
+
+<br>
+
+"
+"liányīqún
+
+<br>
+
+连衣裙"	"<div>formal dress</div>
+
+<br>
+
+"
+"máoyī
+
+<br>
+
+毛衣"	"<div>sweater</div>
+
+<br>
+
+"
+"jiākè
+
+<br>
+
+夹克"	"<div>jacket</div>
+
+<br>
+
+"
+"dàyī
+
+<br>
+
+大衣"	"<div>&nbsp;overcoat/coat</div>
+
+<br>
+
+"
+"chángkù
+
+<br>
+
+长裤"	"long pants / trousers
+
+<br>
+
+"
+"xiàndài yìshù
+
+<br>
+
+现代艺术"	"modern art
+
+<br>
+
+"
+"liúhàn
+
+<br>
+
+流汗"	"<div>to sweat<br></div>
+
+<br>
+
+"
+"xiézi
+
+<br>
+
+鞋子"	"<div>shoes<br></div>
+
+<br>
+
+"
+"yùndòngfú
+
+<br>
+
+运动服"	"<div>sportswear<br></div>
+
+<br>
+
+"
+"xiàofú
+
+<br>
+
+校服"	"<div>school uniform<br></div>
+
+<br>
+
+"
+"wèiyī
+
+<br>
+
+卫衣"	"<div>sweatshirt/hoody<br></div>
+
+<br>
+
+"
+"<div>liánmàoshān</div>
+
+<br>
+
+连帽衫"	"sweatshirt/hoody
+
+<br>
+
+"
+"dàimàozi
+
+<br>
+
+戴帽子"	"<div>to wear a hat</div>
+
+<br>
+
+"
+"wéijīn
+
+<br>
+
+<div>围巾</div>"	"scarf&nbsp;/&nbsp;shawl
+
+<br>
+
+"
+"<div>jièzhi<br></div>
+
+<br>
+
+戒指"	"(finger) ring
+
+<br>
+
+"
+"shǒutào
+
+<br>
+
+<div>手套</div>"	"glove&nbsp;/&nbsp;mitten
+
+<br>
+
+"
+"wǒ zài dú&nbsp;yánjiūshēng
+
+<br>
+
+我在读研究生"	"I am (reading) graduate degree
+
+<br>
+
+"
+"biànchéng
+
+<br>
+
+<div>变成</div>"	"<div>to change into&nbsp;/&nbsp;to turn into&nbsp;/&nbsp;to become</div>
+
+<br>
+
+"
+"xiě mǎ
+
+<br>
+
+写 码"	"write code
+
+<br>
+
+"
+"shíjiān
+
+<br>
+
+时间"	"time / period
+
+<br>
+
+"
+"zǎoshang
+
+<br>
+
+早上"	"early morning
+
+<br>
+
+"
+"shàngwǔ
+
+<br>
+
+上午"	"morning
+
+<br>
+
+"
+"zhōngwǔ
+
+<br>
+
+中午"	"noon/midday
+
+<br>
+
+"
+"xiàwǔ
+
+<br>
+
+下午"	"afternoon
+
+<br>
+
+"
+"wǎnshang
+
+<br>
+
+晚上"	"evening/night
+
+<br>
+
+"
+"shùxué
+
+<br>
+
+数学"	"maths
+
+<br>
+
+"
+"shùzì (shùxué)
+
+<br>
+
+数字 (数学)"	"number (maths)
+
+<br>
+
+"
+"jiā (数学）
+
+<br>
+
+加"	"to add / plus
+
+<br>
+
+"
+"jiǎn （数学）
+
+<br>
+
+减"	"subtract
+
+<br>
+
+"
+"chéng (shùxué）
+
+<br>
+
+乘 （数学）"	"multiply
+
+<br>
+
+"
+"chú (<font face=""-apple-system"">shùxué）</font>
+
+<br>
+
+除（数学）"	"to divide
+
+<br>
+
+"
+"liù	diǎn líng wǔ fēn
+
+<br>
+
+六点零五分"	"6:05
+
+<br>
+
+"
+"wǔ diǎn bàn
+
+<br>
+
+五点半"	"5:30 (half past five)
+
+<br>
+
+"
+"miǎo
+
+<br>
+
+秒"	"a second
+
+<br>
+
+"
+"tā (nán)
+
+<br>
+
+他 (男)"	"he (male)
+
+<br>
+
+"
+"tā (nǚ)
+
+<br>
+
+她 (女)"	"she (female)
+
+<br>
+
+"
+"tā (dòngwù)
+
+<br>
+
+它 (动物）"	"it（animal）
+
+<br>
+
+"
+"tāmen (nán)
+
+<br>
+
+他们 (男)"	"they (male and/or female)
+
+<br>
+
+"
+"děngyú
+
+<br>
+
+等于"	"to equal
+
+<br>
+
+"
+"rìchángqǐjū
+
+<br>
+
+日常起居"	"daily routine
+
+<br>
+
+"
+"shàngkè
+
+<br>
+
+上课"	"to go to class / to attend class / to go to teach a class
+
+<br>
+
+"
+"xiàkè
+
+<br>
+
+下课"	"to finish class / to get out of class
+
+<br>
+
+"
+"shuìjiào
+
+<br>
+
+睡觉 "	"to go to bed / to sleep
+
+<br>
+
+"
+"yùndòng
+
+<br>
+
+运动"	"to move / to exercise / sports / exercise / motion / movement
+
+<br>
+
+"
+"shuāyá
+
+<br>
+
+刷牙"	"to brush one's teeth
+
+<br>
+
+"
+"zuòyè
+
+<br>
+
+作业"	"school assignment / homework / work / task
+
+<br>
+
+写作业"
+"shuǐguǒ
+
+<br>
+
+水果"	"fruit
+
+<br>
+
+"
+"píngguǒ
+
+<br>
+
+苹果"	"apple
+
+<br>
+
+"
+"xiāngjiāo
+
+<br>
+
+香蕉"	"banana
+
+<br>
+
+"
+"
+cǎoméi
+
+<br>
+
+草莓"	"strawberry
+
+<br>
+
+"
+"mángguǒ
+
+<br>
+
+芒果"	"mango
+
+<br>
+
+芒果汁"
+"xīgua
+
+<br>
+
+西瓜"	"watermelon
+
+<br>
+
+"
+"tián
+
+<br>
+
+甜"	"sweet
+
+<br>
+
+"
+"tángguǒ
+
+<br>
+
+糖果"	"sweets/candy
+
+<br>
+
+"
+"qián
+
+<br>
+
+钱"	"money
+
+<br>
+
+"
+"duōshao
+
+<br>
+
+多少"	"how many/how much
+
+<br>
+
+多少钱？"
+"qiān
+
+<br>
+
+千"	"thousand
+
+<br>
+
+不足五千 （less than five thousand, lit. not even at the foot of five thousand)"
+"wàn
+
+<br>
+
+万"	"Ten thousand
+
+<br>
+
+百万 = a million"
+"bàng
+
+<br>
+
+磅"	"pound/lb
+
+<br>
+
+我两百磅"
+"gòuwù
+
+<br>
+
+购物"	"to shop
+
+<br>
+
+去购物"
+"shāngchǎng
+
+<br>
+
+商场"	"the mall/department store
+
+<br>
+
+"
+"guàngjiē
+
+<br>
+
+逛街"	"go window shopping
+
+<br>
+
+"
+"gòuwùqīngdān
+
+<br>
+
+购物清单"	"shopping list
+
+<br>
+
+"
+"yīgòng
+
+<br>
+
+一共"	"altogether; in all
+
+<br>
+
+一共多少人？一共两个人。"
+"pútáo
+
+<br>
+
+葡萄"	"grape
+
+<br>
+
+"
+"<div>chéngzi</div>
+
+<br>
+
+橙子"	"orange
+
+<br>
+
+"
+"táozi
+
+<br>
+
+桃子"	"peach
+
+<br>
+
+"
+"níngméng&nbsp;
+
+<br>
+
+柠檬&nbsp;"	"<div><div><div><div><div>lemon</div></div></div></div></div>
+
+<br>
+
+"
+"<div>suān</div>
+
+<br>
+
+酸"	"sour
+
+<br>
+
+"
+"<div>gōngjīn</div>
+
+<br>
+
+公斤"	"kilogram (kg)
+
+<br>
+
+"
+"jīn
+
+<br>
+
+<div>斤</div>"	"(PRC) weight equal to 500 g&nbsp;/&nbsp;(Tw) weight equal to 600 g&nbsp;/&nbsp;(HK, Malaysia, Singapore) slightly over 604 g
+
+<br>
+
+他&nbsp;是 160斤&nbsp;"
+"guì
+
+<br>
+
+贵"	"expensive/noble/precious/(honorific)your
+
+<br>
+
+"
+"piányi
+
+<br>
+
+便宜"	"cheap / inexpensive / small advantages / to let sb off lightly
+
+<br>
+
+"
+"yīrìsāncān&nbsp;
+
+<br>
+
+一日三餐&nbsp;"	"to have three meals a day
+
+<br>
+
+"
+"xīcān
+
+<br>
+
+西餐&nbsp;"	"western food
+
+<br>
+
+"
+"sānmíngzhì
+
+<br>
+
+三明治"	"sandwich
+
+<br>
+
+"
+"shālā
+
+<br>
+
+沙拉&nbsp;"	"salad (loanword)&nbsp;
+
+<br>
+
+"
+"niúpái
+
+<br>
+
+牛排&nbsp;"	"steak
+
+<br>
+
+"
+"kǎo
+
+<br>
+
+烤&nbsp;"	"to roast / to bake / to broil&nbsp;
+
+<br>
+
+"
+"Yìdàlì
+
+<br>
+
+意大利"	"<div><div><div><div><div>Italy / Italian</div></div></div></div></div>
+
+<br>
+
+"
+"yīnyì
+
+<br>
+
+音译"	"transliteration
+
+<br>
+
+"
+"zhōngcān
+
+<br>
+
+中餐"	"lunch or Chinese food
+
+<br>
+
+"
+"chǎofàn
+
+<br>
+
+炒饭"	"fried rice
+
+<br>
+
+"
+"chǎomiàn
+
+<br>
+
+炒面"	"stir-fried noodles / ""chow mein""
+
+<br>
+
+"
+"jiǎozi
+
+<br>
+
+饺子"	"dumpling / pot-sticker / CL:個|个[ge4],隻|只[zhi1]
+
+<br>
+
+"
+"mǐfàn
+
+<br>
+
+米饭"	"(cooked) rice
+
+<br>
+
+"
+"miàntiáo
+
+<br>
+
+面条"	"noodles
+
+<br>
+
+"
+"háishi
+
+<br>
+
+还是"	"still (as before) / had better / unexpectedly / or
+
+<br>
+
+"
+"shíwù
+
+<br>
+
+食物"	"food
+
+<br>
+
+"
+"kuàicān
+
+<br>
+
+快餐"	"fast food / snack / quick meal
+
+<br>
+
+"
+"hànbǎo
+
+<br>
+
+汉堡"	"hamburger (loanword)
+
+<br>
+
+"
+"règǒu
+
+<br>
+
+热狗"	"hot dog (loanword)
+
+<br>
+
+"
+"shǔtiáo
+
+<br>
+
+薯条"	"french fries / french fried potatoes / chips
+
+<br>
+
+"
+"xīguāzhī
+
+<br>
+
+西瓜汁"	"watermelon juice
+
+<br>
+
+"
+"&nbsp;Xuěbì
+
+<br>
+
+雪碧"	"Sprite
+
+<br>
+
+"
+"kāfēi
+
+<br>
+
+咖啡"	"coffee (loanword)
+
+<br>
+
+"
+"bāozi
+
+<br>
+
+包子"	"bao (steamed stuffed bun)
+
+<br>
+
+"
+"màipiàn
+
+<br>
+
+麦片"	"oatmeal / rolled oats
+
+<br>
+
+"
+"suānnǎi
+
+<br>
+
+酸奶"	"yogurt
+
+<br>
+
+"
+"yībān
+
+<br>
+
+一般"	"same / generally / in general
+
+<br>
+
+一般&nbsp;我&nbsp;在&nbsp;晚上&nbsp;洗澡"
+"牛肉
+
+<br>
+
+niúròu"	"beef
+
+<br>
+
+"
+"yìsi
+
+<br>
+
+意思"	"idea / opinion / meaning
+
+<br>
+
+"
+"tángcù
+
+<br>
+
+糖醋"	"sweet and sour
+
+<br>
+
+"
+"zhūròu
+
+<br>
+
+猪肉"	"pork
+
+<br>
+
+"
+"bùyī
+
+<br>
+
+不一"	"to vary / to differ
+
+<br>
+
+心口不一"
+"děngděng
+
+<br>
+
+等等"	"et cetera / and so on ... / wait a minute! / hold on!
+
+<br>
+
+有&nbsp;可能&nbsp;將&nbsp;电脑&nbsp;工作&nbsp;扩展&nbsp;到&nbsp;银行&nbsp;业务&nbsp;,&nbsp;会计&nbsp;业务&nbsp;等等"
+"liànjiē
+
+<br>
+
+&nbsp;链接"	"link (on we website)
+
+<br>
+
+不要&nbsp;点击&nbsp;那个&nbsp;链接"
+"xiā
+
+<br>
+
+虾"	"shrimp / prawn
+
+<br>
+
+"
+"Wǎngluòxīncí
+
+<br>
+
+网络新词"	"Internet word
+
+<br>
+
+"
+"chǎocài
+
+<br>
+
+炒菜"	"to stir-fry / to do the cooking / stir-fried dish
+
+<br>
+
+"
+"huòzhě
+
+<br>
+
+或者"	"or / possibly; maybe; perhaps
+
+<br>
+
+"
+"hǎixiān
+
+<br>
+
+海鲜"	"seafood
+
+<br>
+
+"
+"jǐwèi
+
+<br>
+
+几位"	"how many people
+
+<br>
+
+"
+"càidān
+
+<br>
+
+菜单"	"menu / CL:份[fen4],張|张[zhang1]
+
+<br>
+
+"
+"fúwùyuán
+
+<br>
+
+服务员"	"waiter / waitress / attendant / customer service personnel / CL:個|个[ge4],位[wei4]
+
+<br>
+
+"
+"diǎncài
+
+<br>
+
+点菜"	"to order dishes (in a restaurant)
+
+<br>
+
+"
+"shāoděng
+
+<br>
+
+稍等"	"to wait a moment
+
+<br>
+
+"
+"cíhuì
+
+<br>
+
+词汇"	"vocabulary / list of words (e.g. for language teaching purposes) / word
+
+<br>
+
+"
+"liàng
+
+<br>
+
+量"	"capacity / quantity / amount / to estimate / abbr. for 量詞|量词[liang4 ci2], classifier (in Chinese grammar) / measure word
+
+<br>
+
+"
+"hěn
+
+<br>
+
+很"	"(adverb of degree) / quite / very / awfully
+
+<br>
+
+"
+"shǎo
+
+<br>
+
+少"	"few / less / to lack / to be missing / to stop (doing sth) / seldom
+
+<br>
+
+"
+"xīncí
+
+<br>
+
+新词"	"new expression; neologism
+
+<br>
+
+"
+"dāncí
+
+<br>
+
+单词"	"word / CL:個|个[ge4]
+
+<br>
+
+"
+"cí
+
+<br>
+
+词"	"word / statement / speech / lyrics / CL:組|组[zu3],個|个[ge4] / a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Song4 chao2] / CL:首[shou3]
+
+<br>
+
+"
+"wòshì
+
+<br>
+
+卧室"	"bedroom / CL:間|间[jian1]
+
+<br>
+
+"
+"kètīng
+
+<br>
+
+客厅"	"drawing room (room for arriving guests) / living room / CL:間|间[jian1]
+
+<br>
+
+"
+"cāntīng
+
+<br>
+
+餐厅"	"dining hall / dining room / restaurant / CL:間|间[jian1],家[jia1]
+
+<br>
+
+"
+"chúfáng
+
+<br>
+
+厨房"	"kitchen / CL:間|间[jian1]
+
+<br>
+
+"
+"shūfáng
+
+<br>
+
+书房"	"study (room) / studio / CL:間|间[jian1]
+
+<br>
+
+"
+"yángtái
+
+<br>
+
+阳台"	"balcony / porch
+
+<br>
+
+"
+"céng
+
+<br>
+
+层"	"storey; floor
+
+<br>
+
+"
+"dǐcéng
+
+<br>
+
+底层"	"ground or first floor / bottom (of a pile) / lowest rung (of society)
+
+<br>
+
+"
+"gāocéng
+
+<br>
+
+高层"	"high level / high class
+
+<br>
+
+"
+"yùshì
+
+<br>
+
+浴室"	"bathroom (room used for bathing) / CL:間|间[jian1]
+
+<br>
+
+"
+"línyù
+
+<br>
+
+淋浴"	"to take a shower / shower
+
+<br>
+
+"
+"xǐzǎo
+
+<br>
+
+洗澡"	"to bathe / to take a shower
+
+<br>
+
+"
+"gāocéngjiànzhù
+
+<br>
+
+高层建筑"	"high-rise building / skyscraper
+
+<br>
+
+"
+"<table>
+
+<tbody><tr>
+
+<td>pīnyīn</td>
+
+</tr></tbody></table>
+
+<br>
+
+<table>
+
+<tbody><tr>
+
+<td>拼音</td>
+
+</tr></tbody></table>"	"<table>
+
+<tbody><tr>
+
+<td>phonetic
+  writing / pinyin (Chinese romanization)</td>
+
+</tr></tbody></table>
+
+<br>
+
+"
+"fānyì
+
+<br>
+
+翻译"	"to translate / to interpret / translator / interpreter / translation / interpretation / CL:個|个[ge4],位[wei4],名[ming2]
+
+<br>
+
+"
+"jìngzi
+
+<br>
+
+镜子"	"mirror / CL:面[mian4],個|个[ge4]
+
+<br>
+
+"
+"shēnbiān
+
+<br>
+
+身边"	"at one's side / on hand
+
+<br>
+
+"
+"lóutī
+
+<br>
+
+楼梯"	"stair / staircase / CL:個|个[ge4]
+
+<br>
+
+"
+"lóushàng
+
+<br>
+
+楼上"	"upstairs / (Internet slang) previous poster in a forum thread
+
+<br>
+
+"
+"lóuxià
+
+<br>
+
+楼下"	"downstairs
+
+<br>
+
+"
+"xǐyīfáng
+
+<br>
+
+洗衣房"	"laundry room
+
+<br>
+
+"
+"yīmàojiān
+
+<br>
+
+衣帽间"	"coatroom
+
+<br>
+
+"
+"jiān
+
+<br>
+
+间"	"between / among / within a definite time or space / room / section of a room or lateral space between two pairs of pillars / classifier for rooms
+
+<br>
+
+"
+"chēkù
+
+<br>
+
+车库"	"garage
+
+<br>
+
+"
+"yóuyǒngchí
+
+<br>
+
+游泳池"	"swimming pool / CL:場|场[chang3]
+
+<br>
+
+"
+"yóuyǒng
+
+<br>
+
+游泳"	"swimming / to swim
+
+<br>
+
+"
+"yǒuyòng
+
+<br>
+
+有用"	"useful
+
+<br>
+
+"
+"shuǐchí
+
+<br>
+
+水池"	"pond / pool / sink / washbasin
+
+<br>
+
+"
+"huāyuán
+
+<br>
+
+花园"	"garden / CL:座[zuo4],個|个[ge4]
+
+<br>
+
+"
+"zhànlìshìshūzhuō
+
+<br>
+
+站立式书桌"	"stand on feet + type + desk = standing desk
+
+<br>
+
+"
+"jiājù
+
+<br>
+
+家具"	"furniture / CL:件[jian4],套[tao4]
+
+<br>
+
+"
+"diànshì
+
+<br>
+
+电视"	"television; TV / CL:臺|台[tai2],個|个[ge4]
+
+<br>
+
+"
+"shūguì
+
+<br>
+
+书柜"	"bookcase
+
+<br>
+
+"
+"yīguì
+
+<br>
+
+衣柜"	"wardrobe / armoire / CL:個|个[ge4]
+
+<br>
+
+"
+"chuángtóuguì
+
+<br>
+
+床头柜"	"bedside cabinet / nightstand
+
+<br>
+
+"
+"lǐmiàn
+
+<br>
+
+里面"	"inside / interior / also pr. [li3 mian5]
+
+<br>
+
+"
+"shāfā
+
+<br>
+
+沙发"	"sofa (loanword) / CL:條|条[tiao2],張|张[zhang1] / (Internet slang) the first reply or replier to a forum post
+
+<br>
+
+"
+"chájī
+
+<br>
+
+茶几"	"small side table / coffee table / teapoy (ornamental tripod with caddies for tea)
+
+<br>
+
+"
+"chuáng
+
+<br>
+
+床"	"bed / couch / classifier for beds / CL:張|张[zhang1]
+
+<br>
+
+"
+"zhuōzi
+
+<br>
+
+桌子"	"table / desk / CL:張|张[zhang1],套[tao4]
+
+<br>
+
+"
+"yǐzi
+
+<br>
+
+椅子"	"chair / CL:把[ba3],套[tao4]
+
+<br>
+
+"
+"cānzhuō
+
+<br>
+
+餐桌"	"dining table; dinner table / CL:張|张[zhang1]
+
+<br>
+
+"
+"shūzhuō
+
+<br>
+
+书桌"	"desk / CL:張|张[zhang1]
+
+<br>
+
+"
+"zhāng
+
+<br>
+
+张"	"classifier for flat objects, sheet / to open up / to spread / sheet of paper / classifier for votes
+
+<br>
+
+"
+"diànqì
+
+<br>
+
+电器"	"(electrical) appliance / device
+
+<br>
+
+"
+"bīngxiāng
+
+<br>
+
+冰箱"	"icebox / freezer cabinet / refrigerator / CL:臺|台[tai2],個|个[ge4]
+
+<br>
+
+"
+"kǎoxiāng
+
+<br>
+
+烤箱"	"oven
+
+<br>
+
+"
+"xǐwǎnjī
+
+<br>
+
+洗碗机"	"dishwasher
+
+<br>
+
+"
+"jīqì
+
+<br>
+
+机器"	"machine / CL:臺|台[tai2],部[bu4],個|个[ge4]
+
+<br>
+
+"
+"wēibōlú
+
+<br>
+
+微波炉"	"microwave oven / CL:臺|台[tai2]
+
+<br>
+
+"
+"kǎomiànbāojī
+
+<br>
+
+烤面包机"	"toaster
+
+<br>
+
+"
+"kāfēijī
+
+<br>
+
+咖啡机"	"coffee machine / coffee maker
+
+<br>
+
+"
+"diànnǎo
+
+<br>
+
+电脑"	"computer / CL:臺|台[tai2]
+
+<br>
+
+"
+"kōngtiáo
+
+<br>
+
+空调"	"air conditioning / air conditioner (including units that have a heating mode) / CL:臺|台[tai2]
+
+<br>
+
+"
+"xǐyījī
+
+<br>
+
+洗衣机"	"washing machine; washer / CL:臺|台[tai2]
+
+<br>
+
+"
+"hōnggānjī
+
+<br>
+
+烘干机"	"clothes dryer
+
+<br>
+
+"
+"shèqū
+
+<br>
+
+社区"	"community / neighborhood
+
+<br>
+
+"
+"xuéxiào
+
+<br>
+
+学校"	"school / CL:所[suo3]
+
+<br>
+
+"
+"chāoshì
+
+<br>
+
+超市"	"supermarket / CL:家[jia1]
+
+<br>
+
+"
+"chāojíshìchǎng
+
+<br>
+
+超级市场"	"supermarket
+
+<br>
+
+"
+"gōngyuán
+
+<br>
+
+公园"	"park (for public recreation) / CL:個|个[ge4],座[zuo4]
+
+<br>
+
+"
+"yínháng
+
+<br>
+
+银行"	"bank / CL:家[jia1],個|个[ge4]
+
+<br>
+
+"
+"fùjìn
+
+<br>
+
+附近"	"nearby; neighboring / (in the) vicinity (of)
+
+<br>
+
+"
+"jiàotáng
+
+<br>
+
+教堂"	"church / chapel / CL:間|间[jian1]
+
+<br>
+
+"
+"cānguǎn
+
+<br>
+
+餐馆"	"restaurant / CL:家[jia1]
+
+<br>
+
+"
+"yīyuàn
+
+<br>
+
+医院"	"hospital / CL:所[suo3],家[jia1],座[zuo4]
+
+<br>
+
+"
+"yàodiǎn
+
+<br>
+
+要点"	"main point / essential
+
+<br>
+
+"
+"sìmiào
+
+<br>
+
+寺庙"	"temple / monastery / shrine
+
+<br>
+
+"
+"diàn
+
+<br>
+
+店"	"inn; old-style hotel / (bound form) shop; store / CL:家[jia1]
+
+<br>
+
+"
+"huādiàn
+
+<br>
+
+花店"	"flower shop
+
+<br>
+
+"
+"jǐngchájú
+
+<br>
+
+警察局"	"police station / police department / police headquarters
+
+<br>
+
+"
+"gōngānjú
+
+<br>
+
+公安局"	"public security bureau (government office similar in function to a police station)
+
+<br>
+
+"
+"xiāofángjú
+
+<br>
+
+消防局"	"fire department
+
+<br>
+
+"
+"yóujú
+
+<br>
+
+邮局"	"post office / CL:家[jia1],個|个[ge4]
+
+<br>
+
+"
+"yóujiàn
+
+<br>
+
+邮件"	"mail / post / email
+
+<br>
+
+"
+"diànyǐngyuàn
+
+<br>
+
+电影院"	"cinema; movie theater / CL:家[jia1],座[zuo4]
+
+<br>
+
+"
+"jiǎnpiàoyuán
+
+<br>
+
+检票员"	"ticket inspector
+
+<br>
+
+"
+"yuǎn
+
+<br>
+
+远"	"far / distant&nbsp;
+
+<br>
+
+"
+"jìn
+
+<br>
+
+近"	"near / close to / approximately
+
+<br>
+
+"
+"lí
+
+<br>
+
+离"	"to be away from / (in giving distances) from
+
+<br>
+
+"
+"duànshí
+
+<br>
+
+断食"	"to fast / hunger strike
+
+<br>
+
+"
+"lāshǐ
+
+<br>
+
+拉屎"	"to defecate; to shit; to crap
+
+<br>
+
+"
+"chūntiān
+
+<br>
+
+春天"	"spring (season)
+
+<br>
+
+"
+"jìsuànjīkēxué
+
+<br>
+
+计算机科学"	"computer science
+
+<br>
+
+"
+"zǒulù
+
+<br>
+
+走路"	"to walk / to go on foot
+
+<br>
+
+"
+"kāichē
+
+<br>
+
+开车"	"to drive a car
+
+<br>
+
+"
+"dàyuē
+
+<br>
+
+大约"	"approximately / probably
+
+<br>
+
+"
+"jiāotōnggōngjù
+
+<br>
+
+交通工具"	"means of transportation / vehicle
+
+<br>
+
+"
+"fēijī
+
+<br>
+
+飞机"	"airplane / CL:架[jia4]
+
+<br>
+
+"
+"huǒchē
+
+<br>
+
+火车"	"train / CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]
+
+<br>
+
+"
+"dìtiě
+
+<br>
+
+地铁"	"underground railway; subway / subway train
+
+<br>
+
+"
+"dìxià
+
+<br>
+
+地下"	"underground / subterranean / covert
+
+<br>
+
+"
+"zuò
+
+<br>
+
+做"	"to make
+
+<br>
+
+"
+"zìxíngchē
+
+<br>
+
+自行车"	"bicycle; bike / CL:輛|辆[liang4]
+
+<br>
+
+"
+"mótuōchē
+
+<br>
+
+摩托车"	"(loanword) motorbike; motorcycle / CL:輛|辆[liang4],部[bu4]
+
+<br>
+
+"
+"qí
+
+<br>
+
+骑"	"to sit astride / to ride (a horse, bike etc) / classifier for saddle horses
+
+<br>
+
+"
+"dānchē
+
+<br>
+
+单车"	"(coll.) bike; bicycle (esp. bike-share bicycle)
+
+<br>
+
+"
+"jiǎotàchē
+
+<br>
+
+脚踏车"	"(Tw) bicycle; bike / CL:輛|辆[liang4]
+
+<br>
+
+"
+"zuòchē
+
+<br>
+
+坐车"	"to take the car, bus, train etc
+
+<br>
+
+"
+"DīdīChūxíng
+
+<br>
+
+滴滴出行"	"Didi Chuxing Technology Co., aka DiDi, app-based transportation company, headquartered in Beijing, founded in 2012
+
+<br>
+
+"
+"xiǎochē
+
+<br>
+
+小车"	"small model car / mini-car / small horse-cart / barrow / wheelbarrow / type of folk dance
+
+<br>
+
+"
+"tiěguǐ
+
+<br>
+
+铁轨"	"rail / railroad track / CL:根[gen1]
+
+<br>
+
+"
+"qīngguǐ
+
+<br>
+
+轻轨"	"light rail; transit system (underground, at street level or elevated)
+
+<br>
+
+"
+"guǐdào
+
+<br>
+
+轨道"	"track (for trains etc) / orbit (of a satellite)
+
+<br>
+
+"
+"chūguǐ
+
+<br>
+
+出轨"	"to be derailed; to go off the rails / (fig.) to overstep the bounds / (fig.) to have an extramarital affair
+
+<br>
+
+"
+"chuán
+
+<br>
+
+船"	"boat / vessel / ship / CL:條|条[tiao2],艘[sou1],隻|只[zhi1]
+
+<br>
+
+"
+"chuánzhǎng
+
+<br>
+
+船长"	"captain (of a boat) / skipper
+
+<br>
+
+"
+"xiǎoshí
+
+<br>
+
+小时"	"hour / CL:個|个[ge4]
+
+<br>
+
+"
+"duōjiǔ
+
+<br>
+
+多久"	"(of time) how long? / (not) a long time
+
+<br>
+
+"
+"cóng
+
+<br>
+
+从"	"from
+
+<br>
+
+"
+"dào
+
+<br>
+
+到"	"to
+
+<br>
+
+"
+"fēijīchǎng
+
+<br>
+
+飞机场"	"airport / CL:處|处[chu4]
+
+<br>
+
+"
+"zhàn
+
+<br>
+
+站"	"station / to stand
+
+<br>
+
+"
+"xiān
+
+<br>
+
+先"	"early / prior / former / in advance / first
+
+<br>
+
+"
+"xiāndàoxiāndé
+
+<br>
+
+先到先得"	"first come first served
+
+<br>
+
+"
+"zuìhòu
+
+<br>
+
+最后"	"final / last / finally / ultimate
+
+<br>
+
+"
+"guo
+
+<br>
+
+过"	"(experienced action marker)
+
+<br>
+
+"

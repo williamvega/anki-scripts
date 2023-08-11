@@ -1,0 +1,428 @@
+#separator:tab
+#html:false
+职业	zhíyè	occupation profession vocation professional				8c24e27e-357b-11ee-b384-005056c00008
+警察	jǐngchá	police				
+工程师	gōngchéngshī	engineer				
+消防员	xiāofángyuán	firefighter				
+护士	hùshi	nurse				88864776-2c00-11ee-a1a5-005056c00008
+医生	yīshēng	doctor				97b65cb6-357b-11ee-985f-005056c00008
+司机	sījī	driver				
+律师	lǜshī	lawyer				
+设计师	shèjìshī	designer				
+厨师	chúshī	cook				
+商人	shāngrén	businessman				
+软件	ruǎnjiàn	software				
+祝你好运	zhùnǐhǎoyùn	good luck				7b9f4c5d-3625-11ee-9e16-005056c00008
+身体健康	shēntǐjiànkāng	be in good health	祝你身体健康			
+码农	mǎnóng	menial programmer (computing)				
+身体部位	shēntǐbùwèi	body part				
+脸	liǎn	face				
+脖子	bózi	neck				
+肩膀	jiānbǎng	shoulder				
+翅膀	chìbǎng	wing (of a bird)				
+胳膊	gēbo	arm				
+胳膊肘	gēbozhǒu	elbow				
+手	shǒu	hand				82de0d30-2c00-11ee-80b5-005056c00008
+手指头	shǒuzhǐtou	fingertip				88d4d770-2c00-11ee-9f55-005056c00008
+膝盖	xīgài	knee				
+脚	jiǎo	foot				90c0e7d4-2c00-11ee-9d51-005056c00008
+脚指	jiǎozhǐ	toe				d97aed7d-357f-11ee-be31-005056c00008
+眼睛	yǎnjing	eyes				
+眼镜	yǎnjìng	eyeglasses	戴眼镜			
+拿	ná	hold; take				87a65249-2c00-11ee-8c48-005056c00008
+动物	dòngwù	animal				0362f6d0-357c-11ee-88df-005056c00008
+公羊/母羊	gōngyáng/mǔyáng	ram/ewe	gōng + animal = male animal mǔ + animal = female animal			
+植物	zhíwù	plant;flora				094680fd-357c-11ee-aaf5-005056c00008
+羊	yáng	sheep;goat;ram;ewe				
+山羊	shānyáng	goat				0f6d4f66-357c-11ee-bdf3-005056c00008
+绵羊	miányáng	sheep				
+美洲豹	měizhōubào （dòngwù）	panther (animal)			（动物）	8df5478f-2c00-11ee-8561-005056c00008
+宠物	chǒngwù	pet				
+宠爱	chǒng‘ài	make a pet of/dote sb’s beloved sb				7e615a52-2c00-11ee-8f00-005056c00008
+熊猫	xióngmāo	panda				
+猴子	hóuzi	monkey				
+美猴王	měihóuwáng	the Monkey King in 西游记				
+松鼠	sōngshǔ	squirrel				
+松树	sōngshù	pine tree				8aeb5a12-2c00-11ee-9efa-005056c00008
+仓鼠	cāngshǔ	hamster				a3301193-2f28-11ee-8558-005056c00008
+乌龟	wūguī	turtle				6fd004b3-2c00-11ee-8883-005056c00008
+衣服	yīfu	clothes				
+穿	chuān	wear/put on	穿衣服			
+T恤	T'xù	t-shirt				
+短裤	duǎnkù	short pants / shorts				
+衬衫	chènshān	shirt/blouse				
+裤子	kùzi	trousers/pants				
+牛仔裤	niúzǎikù	jeans (lit. cowboy pants)				
+裙子	qúnzi	skirt				
+连衣裙	liányīqún	formal dress				
+毛衣	máoyī	sweater				
+夹克	jiākè	jacket				
+大衣	dàyī	overcoat/coat				
+长裤	chángkù	long pants / trousers				5580eeba-2c00-11ee-abda-005056c00008
+现代艺术	xiàndài yìshù	modern art				
+流汗	liúhàn	to sweat				
+鞋子	xiézi	shoes				
+运动服	yùndòngfú	sportswear				
+校服	xiàofú	school uniform				
+卫衣	wèiyī	sweatshirt/hoody				
+连帽衫	liánmàoshān	sweatshirt/hoody				
+戴帽子	dàimàozi	to wear a hat				
+围巾	wéijīn	scarf / shawl				
+戒指	jièzhi	(finger) ring				d6309fbb-357f-11ee-a1f5-005056c00008
+手套	shǒutào	glove / mitten				895ac9d8-2c00-11ee-bc0b-005056c00008
+我在读研究生	wǒ zài dú yánjiūshēng	I am (reading) graduate degree				
+变成	biànchéng	to change into / to turn into / to become				
+写 码	xiě mǎ	write code				
+时间	shíjiān	time / period				
+早上	zǎoshang	early morning				3404df2d-357c-11ee-b1a8-005056c00008
+上午	shàngwǔ	morning				37e95b52-357c-11ee-b3bb-005056c00008
+中午	zhōngwǔ	noon/midday				c5613900-2c00-11ee-a2a5-005056c00008
+下午	xiàwǔ	afternoon				3b5030a9-357c-11ee-a48c-005056c00008
+晚上	wǎnshang	evening/night				
+数学	shùxué	maths				873a7b78-2c00-11ee-936c-005056c00008
+数字	shùzì (shùxué)	number (maths)			(数学)	809f9c0d-2c00-11ee-b1ba-005056c00008
+加	jiā (数学）	to add / plus				aff88083-2f28-11ee-986a-005056c00008
+减	jiǎn	subtract			数学	
+乘	chéng	multiply			（数学）	5ee9f196-2c00-11ee-acfb-005056c00008
+除	chú	to divide			（数学）	94aac91c-2c00-11ee-9d63-005056c00008
+六点零五分	"liù	diǎn líng wǔ fēn"	6:05				
+五点半	wǔ diǎn bàn	5:30 (half past five)				
+秒	miǎo	a second				
+他	tā	he (male)			(男)	6bcd128c-2c00-11ee-83ff-005056c00008
+她	tā	she (female)			(女)	744fb5cd-2c00-11ee-b9ee-005056c00008
+它	tā	it（animal）			(动物）	79731aba-2c00-11ee-ac84-005056c00008
+他们	tāmen	they (male and/or female)			(男)	6c081fc7-2c00-11ee-9167-005056c00008
+等于	děngyú	to equal				
+日常起居	rìchángqǐjū	daily routine				
+上课	shàngkè	to go to class / to attend class / to go to teach a class				
+下课	xiàkè	to finish class / to get out of class				6adc8083-2c00-11ee-9e37-005056c00008
+睡觉 	shuìjiào	to go to bed / to sleep				
+运动	yùndòng	to move / to exercise / sports / exercise / motion / movement				
+刷牙	shuāyá	to brush one's teeth				
+作业	zuòyè	school assignment / homework / work / task	写作业			9eaf158c-2c0a-11ee-b8d9-005056c00008
+水果	shuǐguǒ	fruit				
+苹果	píngguǒ	apple				
+香蕉	xiāngjiāo	banana				
+草莓	cǎoméi	strawberry				
+芒果	mángguǒ	mango	芒果汁			91422b59-2c00-11ee-913c-005056c00008
+西瓜	xīgua	watermelon				
+甜	tián	sweet				
+糖果	tángguǒ	sweets/candy				
+钱	qián	money				
+多少	duōshao	how many/how much	多少钱？			
+千	qiān	thousand	不足五千 （less than five thousand, lit. not even at the foot of five thousand)			
+万	wàn	Ten thousand	百万 = a million			
+磅	bàng	pound/lb	我两百磅			
+购物	gòuwù	to shop	去购物			
+商场	shāngchǎng	the mall/department store				
+逛街	guàngjiē	go window shopping				
+购物清单	gòuwùqīngdān	shopping list				514ef1ce-3587-11ee-88bd-005056c00008
+一共	yīgòng	altogether; in all	一共多少人？一共两个人。			
+葡萄	pútáo	grape				
+橙子	chéngzi	orange				
+桃子	táozi	peach				
+柠檬	níngméng	lemon				
+酸	suān	sour				
+公斤	gōngjīn	kilogram (kg)				823d5e4f-2f28-11ee-a89b-005056c00008
+斤	jīn	(PRC) weight equal to 500 g / (Tw) weight equal to 600 g / (HK, Malaysia, Singapore) slightly over 604 g	他 是 160斤			85628ac7-2c00-11ee-b392-005056c00008
+贵	guì	expensive/noble/precious/(honorific)your				
+便宜	piányi	cheap / inexpensive / small advantages / to let sb off lightly				3aa18e3d-2c0a-11ee-abad-005056c00008
+一日三餐	yīrìsāncān	to have three meals a day				bf0f850a-2f28-11ee-8a30-005056c00008
+西餐	xīcān	western food				
+三明治	sānmíngzhì	sandwich				
+沙拉	shālā	salad (loanword)				
+牛排	niúpái	steak				
+烤	kǎo	to roast / to bake / to broil				
+意大利	Yìdàlì	Italy / Italian				
+音译	yīnyì	transliteration				b6461573-2c00-11ee-8fc6-005056c00008
+中餐	zhōngcān	lunch or Chinese food				c17f039a-2f28-11ee-910a-005056c00008
+炒饭	chǎofàn	fried rice				
+炒面	chǎomiàn	"stir-fried noodles / ""chow mein"""				
+饺子	jiǎozi	dumpling / pot-sticker / CL:個|个[ge4],隻|只[zhi1]				
+米饭	mǐfàn	(cooked) rice				
+面条	miàntiáo	noodles				
+还是	háishi	still (as before) / had better / unexpectedly / or				
+食物	shíwù	food				ccd6306f-2f36-11ee-9517-005056c00008
+快餐	kuàicān	fast food / snack / quick meal				
+汉堡	hànbǎo	hamburger (loanword)				
+热狗	règǒu	hot dog (loanword)				
+薯条	shǔtiáo	french fries / french fried potatoes / chips				
+西瓜汁	xīguāzhī	watermelon juice				
+雪碧	Xuěbì	Sprite				
+咖啡	kāfēi	coffee (loanword)				
+包子	bāozi	bao (steamed stuffed bun)				
+麦片	màipiàn	oatmeal / rolled oats				416009bd-2c01-11ee-bc5c-005056c00008
+酸奶	suānnǎi	yogurt				
+一般	yībān	same / generally / in general	一般 我 在 晚上 洗澡			3d888626-357c-11ee-86d2-005056c00008
+牛肉	niúròu	beef				a92c5421-2c00-11ee-ae84-005056c00008
+意思	yìsi	idea / opinion / meaning				
+糖醋	tángcù	sweet and sour				
+猪肉	zhūròu	pork				
+不一	bùyī	to vary / to differ	心口不一			
+等等	děngděng	et cetera / and so on ... / wait a minute! / hold on!	有 可能 將 电脑 工作 扩展 到 银行 业务 , 会计 业务 等等			
+链接	liànjiē	link (on we website)	不要 点击 那个 链接			aeb43ffd-2c00-11ee-9c9c-005056c00008
+虾	xiā	shrimp / prawn				
+网络新词	Wǎngluòxīncí	Internet word				
+炒菜	chǎocài	to stir-fry / to do the cooking / stir-fried dish				
+或者	huòzhě	or / possibly; maybe; perhaps				
+海鲜	hǎixiān	seafood				
+几位	jǐwèi	how many people				
+菜单	càidān	menu / CL:份[fen4],張|张[zhang1]				
+服务员	fúwùyuán	waiter / waitress / attendant / customer service personnel / CL:個|个[ge4],位[wei4]				8ab375a3-2c00-11ee-99bf-005056c00008
+点菜	diǎncài	to order dishes (in a restaurant)				
+稍等	shāoděng	to wait a moment				
+词汇	cíhuì	vocabulary / list of words (e.g. for language teaching purposes) / word				
+量	liàng	capacity				
+很	hěn	(adverb of degree) / quite / very / awfully				
+少	shǎo	few / less / to lack / to be missing / to stop (doing sth) / seldom				
+新词	xīncí	new expression; neologism				86935a97-2c00-11ee-b4f7-005056c00008
+单词	dāncí	word / CL:個|个[ge4]				
+词	cí	word / statement / speech / lyrics / CL:組|组[zu3],個|个[ge4] / a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Song4 chao2] / CL:首[shou3]				
+卧室	wòshì	bedroom / CL:間|间[jian1]				
+客厅	kètīng	drawing room (room for arriving guests) / living room / CL:間|间[jian1]				
+餐厅	cāntīng	dining hall / dining room / restaurant / CL:間|间[jian1],家[jia1]				9d8e69cb-2c00-11ee-8283-005056c00008
+厨房	chúfáng	kitchen / CL:間|间[jian1]				
+书房	shūfáng	study (room) / studio / CL:間|间[jian1]				b5b674fc-2c0f-11ee-ab64-005056c00008
+阳台	yángtái	balcony / porch				53f6c9b2-2c00-11ee-9642-005056c00008
+层	céng	storey; floor				
+低层	dīcéng	lower level				
+高层	gāocéng	high level / high class				
+浴室	yùshì	bathroom (room used for bathing) / CL:間|间[jian1]				
+淋浴	línyù	to take a shower / shower				
+洗澡	xǐzǎo	to bathe / to take a shower				
+高层建筑	gāocéngjiànzhù	skyscraper				efe7002a-2c09-11ee-bf71-005056c00008
+拼音	pīnyīn	phonetic writing / pinyin (Chinese romanization)				87f55369-2c00-11ee-8c5b-005056c00008
+翻译	fānyì	translate				
+镜子	jìngzi	mirror / CL:面[mian4],個|个[ge4]				55b57e54-2c00-11ee-877e-005056c00008
+身边	shēnbiān	at one's side / on hand				
+楼梯	lóutī	stair / staircase / CL:個|个[ge4]				
+楼上	lóushàng	upstairs / (Internet slang) previous poster in a forum thread				
+楼下	lóuxià	downstairs				
+洗衣房	xǐyīfáng	laundry room				
+衣帽间	yīmàojiān	coatroom				
+间	jiān	room				55161ed8-2c00-11ee-b2d8-005056c00008
+车库	chēkù	garage				
+游泳池	yóuyǒngchí	swimming pool / CL:場|场[chang3]				
+游泳	yóuyǒng	swimming / to swim				
+有用	yǒuyòng	useful				8a6b11db-2c00-11ee-af15-005056c00008
+水池	shuǐchí	sink				
+花园	huāyuán	garden / CL:座[zuo4],個|个[ge4]				61da28bc-2f28-11ee-a9eb-005056c00008
+站立式书桌	zhànlìshìshūzhuō	stand on feet + type + desk = standing desk				85adb5ea-2f28-11ee-9976-005056c00008
+家具	jiājù	furniture / CL:件[jian4],套[tao4]				
+电视	diànshì	television; TV / CL:臺|台[tai2],個|个[ge4]				
+书柜	shūguì	bookcase				
+衣柜	yīguì	wardrobe / armoire / CL:個|个[ge4]				
+床头柜	chuángtóuguì	bedside cabinet / nightstand				
+里面	lǐmiàn	inside / interior / also pr. [li3 mian5]				
+沙发	shāfā	sofa (loanword) / CL:條|条[tiao2],張|张[zhang1] / (Internet slang) the first reply or replier to a forum post				
+茶几	chájī	small side table / coffee table / teapoy (ornamental tripod with caddies for tea)				
+床	chuáng	bed / couch / classifier for beds / CL:張|张[zhang1]				
+桌子	zhuōzi	table / desk / CL:張|张[zhang1],套[tao4]				
+椅子	yǐzi	chair / CL:把[ba3],套[tao4]				
+餐桌	cānzhuō	dining table; dinner table / CL:張|张[zhang1]				
+书桌	shūzhuō	desk / CL:張|张[zhang1]				c9bf3e33-2c00-11ee-9608-005056c00008
+张	zhāng	classifier for flat objects, sheet / to open up / to spread / sheet of paper / classifier for votes				
+电器	diànqì	(electrical) appliance / device				855ab64b-2f28-11ee-a428-005056c00008
+冰箱	bīngxiāng	icebox / freezer cabinet / refrigerator / CL:臺|台[tai2],個|个[ge4]				85f0e6c6-2f28-11ee-bf9e-005056c00008
+烤箱	kǎoxiāng	oven				
+洗碗机	xǐwǎnjī	dishwasher				
+机器	jīqì	machine / CL:臺|台[tai2],部[bu4],個|个[ge4]				
+微波炉	wēibōlú	microwave oven / CL:臺|台[tai2]				
+烤面包机	kǎomiànbāojī	toaster				
+咖啡机	kāfēijī	coffee machine / coffee maker				
+电脑	diànnǎo	computer / CL:臺|台[tai2]				
+空调	kōngtiáo	air conditioning / air conditioner (including units that have a heating mode) / CL:臺|台[tai2]				
+洗衣机	xǐyījī	washing machine; washer / CL:臺|台[tai2]				
+烘干机	hōnggānjī	clothes dryer				
+社区	shèqū	community / neighborhood				8512242a-2f28-11ee-a3b1-005056c00008
+学校	xuéxiào	school / CL:所[suo3]				86e07b76-2f28-11ee-a566-005056c00008
+超市	chāoshì	supermarket / CL:家[jia1]				
+超级市场	chāojíshìchǎng	supermarket				
+公园	gōngyuán	park (for public recreation) / CL:個|个[ge4],座[zuo4]				
+银行	yínháng	bank / CL:家[jia1],個|个[ge4]				5a92496b-2c09-11ee-a749-005056c00008
+附近	fùjìn	nearby; neighboring / (in the) vicinity (of)				9a115f0b-2c09-11ee-8ba0-005056c00008
+教堂	jiàotáng	church / chapel / CL:間|间[jian1]				b662a3a8-2f28-11ee-bd1e-005056c00008
+餐馆	cānguǎn	restaurant / CL:家[jia1]				3c173ae8-2c09-11ee-8937-005056c00008
+医院	yīyuàn	hospital / CL:所[suo3],家[jia1],座[zuo4]				
+要点	yàodiǎn	main point / essential				
+寺庙	sìmiào	temple / monastery / shrine				
+店	diàn	inn; old-style hotel / (bound form) shop; store / CL:家[jia1]				
+花店	huādiàn	flower shop				
+警察局	jǐngchájú	police station / police department / police headquarters				
+公安局	gōngānjú	public security bureau (government office similar in function to a police station)				
+消防局	xiāofángjú	fire department				
+邮局	yóujú	post office / CL:家[jia1],個|个[ge4]				
+邮件	yóujiàn	mail / post / email				
+电影院	diànyǐngyuàn	cinema; movie theater / CL:家[jia1],座[zuo4]				
+检票员	jiǎnpiàoyuán	ticket inspector				
+远	yuǎn	far / distant				
+近	jìn	near / close to / approximately				
+离	lí	to be away from / (in giving distances) from				
+断食	duànshí	to fast / hunger strike				870173f6-2c00-11ee-bfa8-005056c00008
+拉屎	lāshǐ	to defecate; to shit; to crap				883826a5-2c00-11ee-acda-005056c00008
+春天	chūntiān	spring (season)				
+计算机科学	jìsuànjīkēxué	computer science				
+走路	zǒulù	to walk / to go on foot				
+开车	kāichē	to drive a car				
+大约	dàyuē	approximately / probably				
+交通工具	jiāotōnggōngjù	means of transportation / vehicle				
+飞机	fēijī	airplane / CL:架[jia4]				
+火车	huǒchē	train / CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]				
+地铁	dìtiě	underground railway; subway / subway train				
+地下	dìxià	underground / subterranean / covert				
+做	zuò	to make				
+自行车	zìxíngchē	bicycle; bike / CL:輛|辆[liang4]				
+摩托车	mótuōchē	(loanword) motorbike; motorcycle / CL:輛|辆[liang4],部[bu4]				87750e7d-2c00-11ee-9012-005056c00008
+骑	qí	to sit astride / to ride (a horse, bike etc) / classifier for saddle horses				
+单车	dānchē	(coll.) bike; bicycle (esp. bike-share bicycle)				
+脚踏车	jiǎotàchē	(Tw) bicycle; bike / CL:輛|辆[liang4]				
+坐车	zuòchē	to take the car, bus, train etc				
+滴滴出行	DīdīChūxíng	Didi Chuxing Technology Co., aka DiDi, app-based transportation company, headquartered in Beijing, founded in 2012				5f48301d-3587-11ee-8927-005056c00008
+小车	xiǎochē	small model car / mini-car / small horse-cart / barrow / wheelbarrow / type of folk dance				
+铁轨	tiěguǐ	rail / railroad track / CL:根[gen1]				
+轻轨	qīngguǐ	light rail; transit system (underground, at street level or elevated)				5976bd6b-3587-11ee-abd8-005056c00008
+轨道	guǐdào	track (for trains etc) / orbit (of a satellite)				
+出轨	chūguǐ	to be derailed; to go off the rails / (fig.) to overstep the bounds / (fig.) to have an extramarital affair				
+船	chuán	boat / vessel / ship / CL:條|条[tiao2],艘[sou1],隻|只[zhi1]				
+船长	chuánzhǎng	captain (of a boat) / skipper				
+小时	xiǎoshí	hour / CL:個|个[ge4]				
+多久	duōjiǔ	(of time) how long? / (not) a long time				
+从	cóng	from				
+到	dào	to				
+飞机场	fēijīchǎng	airport / CL:處|处[chu4]				
+站	zhàn	station / to stand				
+先	xiān	early / prior / former / in advance / first				
+先到先得	xiāndàoxiāndé	first come first served				
+最后	zuìhòu	final / last / finally / ultimate				
+过	guo	"(experienced action marker) / ""have"" + verb"				
+然后	ránhòu	then; after that				
+了	le	"(completed action marker) / (modal particle indicating change of state, situation now) / (modal particle intensifying preceding clause)  verb + ""-ed"""				c6ba3da1-2c00-11ee-86b1-005056c00008
+耳机	ěrjī	headphones				e28147ed-2f28-11ee-ac70-005056c00008
+症状	zhèngzhuàng	symptom (of an illness)				593d5add-2f2d-11ee-b5e1-005056c00008
+头痛	tóutòng	to have a headache				666a4726-2f2d-11ee-9791-005056c00008
+咳嗽	késou	to cough / CL:陣|阵[zhen4]				88f0a19f-2f2d-11ee-b315-005056c00008
+发烧	fāshāo	to have a high temperature (from illness) / to have a fever				901ebf84-2f2d-11ee-a9b0-005056c00008
+怎么	zěnme	how? / what? / why?				ab33441e-2f2d-11ee-9add-005056c00008
+生病	shēngbìng	to fall ill				b30342e1-2f2d-11ee-b44b-005056c00008
+痛	tòng	ache / pain				ba87ef77-2f2d-11ee-852a-005056c00008
+疼	téng	(it) hurts; sore				c6e95b56-2f2d-11ee-8348-005056c00008
+还	hái	still				cdd795db-2f2d-11ee-8c2f-005056c00008
+腰	yāo	waist / lower back				d876bcb5-2f2d-11ee-afef-005056c00008
+带	dài	to wear / to bring				e234fbad-2f2d-11ee-ae3e-005056c00008
+过敏	guòmǐn	allergic / allergy				e7f7013b-2f2d-11ee-95a4-005056c00008
+胃痛	wèitòng	stomachache				f081a203-2f2d-11ee-8086-005056c00008
+胃口	wèikǒu	appetite / liking				f8529abf-2f2d-11ee-8c0c-005056c00008
+肚子痛	dùzitòng	stomachache / bellyache				fe6b2104-2f2d-11ee-8aa6-005056c00008
+感冒	gǎnmào	to catch cold / (common) cold				188d4954-2f2e-11ee-97b9-005056c00008
+敏感	mǐn gǎn	sensitive / susceptible				1f9d1b56-2f2e-11ee-a823-005056c00008
+感觉	gǎnjué	feeling				2436c6f4-2f35-11ee-89d2-005056c00008
+五感	wǔgǎn	five senses				2d1f96db-2f35-11ee-bdd6-005056c00008
+视觉	shìjué	sight / vision / visual				4e775355-2f35-11ee-a5fd-005056c00008
+听觉	tīngjué	sense of hearing / auditory				5cd33c1c-2f35-11ee-8951-005056c00008
+嗅觉	xiùjué	sense of smell				63871c6b-2f35-11ee-ae5a-005056c00008
+味觉	wèijué	sense of taste / gustation				6b08e93d-2f35-11ee-ac9a-005056c00008
+触觉	chùjué	sense of touch; tactile sensation				71ad9e3a-2f35-11ee-bb06-005056c00008
+看起来	kànqǐlai	appear to be				7795cb4d-2f35-11ee-a023-005056c00008
+听起来	tīngqǐlái	to sound like				831ec982-2f35-11ee-bb3f-005056c00008
+尝起来	chángqǐlái	tastes like				b1de0543-2f35-11ee-be5e-005056c00008
+打喷嚏	dǎpēntì	to sneeze				bd880d8d-2f35-11ee-ad89-005056c00008
+流鼻涕	liúbítì	to have a runny nose				c48d3c7c-2f35-11ee-a54d-005056c00008
+需要	xūyào	to need				cdf7f84f-2f35-11ee-8a4e-005056c00008
+休息	xiūxi	rest / to rest				db2a19c2-2f35-11ee-8379-005056c00008
+吃药	chīyào	to take medicine				e1d6da38-2f35-11ee-8437-005056c00008
+觉得	juéde	to think that ...; to feel that				ed57b237-2f35-11ee-a8f6-005056c00008
+一定	yīdìng	surely / certainly / must				48ac3fb6-3217-11ee-b404-005056c00008
+不清	bùqīng	unclear				7b6bd7ac-327b-11ee-8401-005056c00008
+清楚	qīngchu	to be clear about				82597013-327b-11ee-856a-005056c00008
+徘徊	páihuái	to hesitate / to linger				8828f3e2-327b-11ee-8e4c-005056c00008
+寂寞	jìmò	lonely				8eafa303-327b-11ee-81ed-005056c00008
+夜	yè	night				94731f6e-327b-11ee-b013-005056c00008
+方向	fāngxiàng	direction; orientation				988a87a2-327b-11ee-bf9e-005056c00008
+也许	yěxǔ	perhaps				9f7c082f-327b-11ee-a528-005056c00008
+而	ér	and / but / yet / (indicates causal relation) / (indicates change of state) / (indicates contrast)	我 因为 生病 而 请假。			a52d9aeb-327b-11ee-b253-005056c00008
+去	qù	to go				b842fc10-327b-11ee-810c-005056c00008
+力气	lìqi	strength				be51d4a6-327b-11ee-b76c-005056c00008
+勇气	yǒngqì	courage / valor				c42e70b2-327b-11ee-9578-005056c00008
+真	zhēn	really				ca23aee6-327b-11ee-a9c8-005056c00008
+哭泣	kūqì	to weep				cf4e2248-327b-11ee-a583-005056c00008
+无法	wúfǎ	unable / incapable				d7fd269a-327b-11ee-ab01-005056c00008
+心情	xīnqíng	mood; frame of mind				e76cb9fc-327b-11ee-aeaa-005056c00008
+依旧	yījiù	as before / still				ed0e6bfb-327b-11ee-aa90-005056c00008
+忘记	wàngjì	to forget				f587d429-327b-11ee-a846-005056c00008
+继续	jìxù	to continue				fa38253e-327b-11ee-99d7-005056c00008
+偏偏	piānpiān	(indicates that sth turns out just the opposite of what one would wish)				ffd4fa8f-327b-11ee-bfe6-005056c00008
+结果	jiéguǒ	outcome				04221625-327c-11ee-a324-005056c00008
+爱好	àihào	interest; hobby				08ef5d9d-327c-11ee-9fcc-005056c00008
+唱歌	chànggē	to sing a song				0d4fec1b-327c-11ee-9d54-005056c00008
+听	tīng	to listen to; to hear				119d2380-327c-11ee-8b28-005056c00008
+听音乐	tīngyīnyuè	to listen to music				1a6783a2-327c-11ee-829d-005056c00008
+画画	huàhuà	to draw; to paint				2c71b076-327c-11ee-99aa-005056c00008
+拉 小提琴	lā xiǎotíqín	play violin				3276b326-327c-11ee-869c-005056c00008
+拉 大提琴	lā dàtíqín	play cello / violoncello / CL:把[ba3]				5533ef5b-327c-11ee-b367-005056c00008
+弹	tán	to pluck (a string) / to play (a string instrument)				6f72515c-327c-11ee-824b-005056c00008
+弹 吉他	tán jítā	guitar (loanword) / CL:把[ba3]				76710124-327c-11ee-869a-005056c00008
+弹 钢琴	tán gāngqín	play piano / CL:架[jia4],臺|台[tai2]				85b5b3e2-327c-11ee-93f5-005056c00008
+吹	chuī	to blow / to play a wind instrument				9ac78afa-327c-11ee-a2c7-005056c00008
+吹 萨克斯	chuī sàkèsī	play sax / saxophone				9f98bff0-327c-11ee-b9bc-005056c00008
+跳舞	tiàowǔ	to dance				ad0c3587-327c-11ee-9da7-005056c00008
+玩	wán	to play / to have fun				b1d843d6-327c-11ee-9a7e-005056c00008
+游戏	yóuxì	game / CL: 场[chang3]				b6794f20-327c-11ee-8a90-005056c00008
+桌游	zhuōyóu	board game				bbc9eb83-327c-11ee-81cb-005056c00008
+一边	yībiān	doing while				c13bde63-327c-11ee-a788-005056c00008
+打	dǎ	to hit / to play (a game)				c75c7187-327c-11ee-8c52-005056c00008
+网球	wǎngqiú	tennis / tennis ball / CL:个[ge4]				cc58f860-327c-11ee-896c-005056c00008
+篮球	lánqiú	basketball / CL:个[ge4]				d139a248-327c-11ee-9f12-005056c00008
+排球	páiqiú	volleyball / CL:个[ge4]				d8728382-327c-11ee-968b-005056c00008
+橄榄球	gǎnlǎnqiú	football played with oval-shaped ball				dd8af51f-327c-11ee-8d36-005056c00008
+橄榄	gǎnlǎn	olive				e2312976-327c-11ee-a5d9-005056c00008
+踢	tī	to kick / to play (e.g. soccer)				e875c819-327c-11ee-96bd-005056c00008
+足球	zúqiú	soccer ball / a football / CL:个[ge4]				edaabc3d-327c-11ee-8fec-005056c00008
+周末	zhōumò	weekend				f2eba30f-327c-11ee-a6a4-005056c00008
+朋友	péngyou	friend / CL:个[ge4]				f801edf3-327c-11ee-b609-005056c00008
+一起	yīqǐ	in the same place / together				fc1708d9-327c-11ee-b74e-005056c00008
+化学	huàxué	chemistry				e3d53609-3628-11ee-bccf-005056c00008
+开心	kāixīn	to feel happy				03e1b9ec-3629-11ee-9dc9-005056c00008
+毛巾	máojīn	towel / CL: 条[tiao2]				08f7dfb5-3629-11ee-b84b-005056c00008
+那种	nàzhǒng	that kind of				21733c94-3629-11ee-92cd-005056c00008
+滑雪	huáxuě	to ski				2ff90115-3629-11ee-92a8-005056c00008
+必要	bìyào	necessary				353446ef-3629-11ee-8e84-005056c00008
+包容	bāoróng	to forgive / to bear				39b9537a-3629-11ee-a863-005056c00008
+分手	fēnshǒu	to break up				4008a776-3629-11ee-aad8-005056c00008
+认真	rènzhēn	serious				473cb91c-3629-11ee-ba14-005056c00008
+抓住	zhuāzhù	to grab hold of				4cc4860d-3629-11ee-b838-005056c00008
+轻松	qīngsōng	light / relaxed				539f46f5-3629-11ee-88d8-005056c00008
+当	dāng	to manage / to become some occupation				6ad02601-3629-11ee-896e-005056c00008
+毕业生	bìyèshēng	a graduate of sth				77243f6f-3629-11ee-b6ff-005056c00008
+之后	zhīhòu	after; behind				8d1794d6-3629-11ee-9f96-005056c00008
+狗屁	gǒupì	bullshit				974f7736-3629-11ee-b66a-005056c00008
+一再	yīzài	repeatedly				a0a01009-3629-11ee-a658-005056c00008
+强调	qiángdiào	to emphasize a statement				acee9aea-3629-11ee-a497-005056c00008
+送	sòng	to send / to see (sb) off				ba0bd162-3629-11ee-bbdd-005056c00008
+送给	sònggěi	to give as a present				c31d289b-3629-11ee-9d79-005056c00008
+后来	hòulái	afterwards; later				cbcb68c1-3629-11ee-a0fe-005056c00008
+机会	jīhuì	opportunity				e1bfc7e1-3629-11ee-97e9-005056c00008
+缺少	quēshǎo	lack / shortage of				f3ca1fc9-3629-11ee-b2f5-005056c00008
+印度	Yìndù	India				0016c6a8-362a-11ee-a7ae-005056c00008
+粉刺	fěncì	pimple				0ae4b7ff-362a-11ee-9c8c-005056c00008
+生气	shēngqì	to get angry				1582489a-362a-11ee-a121-005056c00008
+大概	dàgài	roughly / probably				1c7dd106-362a-11ee-b358-005056c00008
+垃圾	lājī	trash / refuse				2567745a-362a-11ee-9c8a-005056c00008
+讨好	tǎohǎo	to curry favor with				310b634c-362a-11ee-a046-005056c00008
+花钱	huāqián	to spend money				38b11cf2-362a-11ee-855f-005056c00008
+挣钱	zhèngqián	to make money				41a1f918-362a-11ee-8e42-005056c00008
+旅行	lǚxíng	to travel / trip				4945966b-362a-11ee-9f84-005056c00008
+相信	xiāngxìn	to believe				50bcfdc5-362a-11ee-995d-005056c00008
+吗	ma	"question particle for ""yes-no"" questions"				58553308-362a-11ee-8b13-005056c00008
+太	tài	extremely				5f200dc4-362a-11ee-9ae0-005056c00008
+对	duì	correct / towards				6818a1b1-362a-11ee-b687-005056c00008
+就	jiù	(after a clause of action) + simply				6ddd50aa-362a-11ee-89bf-005056c00008
+想	xiǎng	to want / to miss				7654bf21-362a-11ee-8d79-005056c00008
+这样	zhèyàng	this way / like this				7e17b7c0-362a-11ee-a283-005056c00008
+没	méi	(negative prefix for verbs) have not; not				866518eb-362a-11ee-b2ab-005056c00008
+漫长	màncháng	very long / endless				92a2ba87-362a-11ee-8e82-005056c00008
+明白	míngbai	clear / to understand				996c5593-362a-11ee-9e9c-005056c00008
+的	de	(possessive particle)				a3b2df17-362a-11ee-be7e-005056c00008
+直	zhí	straight				acb31fa6-362a-11ee-93dc-005056c00008
+知道	zhīdào	to know				b8a6ddd1-362a-11ee-b199-005056c00008
+说	shuō	to speak				c2cc1812-362a-11ee-80ad-005056c00008
+白色	báisè	white				cad88fb2-362a-11ee-9bcc-005056c00008
